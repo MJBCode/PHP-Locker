@@ -8,7 +8,7 @@
         "php",
     ],
     "homepage": "https://github.com/MJBCode/PHP-Locker/",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Michael J Brancato",
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "php-locker": "Locker/"
+            "php-locker": "src/PHP-Locker"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "php-locker": "Locker/"
+            "php-locker": "src/PHP-Locker"
         }
     }
 }
