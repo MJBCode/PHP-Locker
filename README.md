@@ -17,11 +17,11 @@ This project assumes that you have general knowledge of a LAMP stack environment
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/MJBCode/PHP-Locker.git"
+        "url": "https://github.com/mjbcode/php-locker.git"
     }
-],
+]
 ```
-- Run `composer install MJBCode/PHP-Locker`
+- Run `composer install mjbcode/php-locker`
 
 ## Setup
 ```
@@ -42,6 +42,9 @@ if($Lock->lock()){
 // Check to see if locked without acquiring
 $Lock->isLocked())
 ```
+
+## Future
+- Implement proper pid id inside of pid file
 
 ## Meta
 Michael J Brancato – [@sgtcoder](https://github.com/sgtcoder) – mike@mjbcode.com
