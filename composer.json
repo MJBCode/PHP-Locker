@@ -1,5 +1,5 @@
 {
-    "name": "mjbcode/php-locker",
+    "name": "sgtcoder/php-locker",
     "type": "package",
     "description": "PHP PID Locker Composer Project.",
     "keywords": [
@@ -7,12 +7,12 @@
         "pid",
         "php"
     ],
-    "homepage": "https://github.com/mjbcode/php-locker/",
+    "homepage": "https://github.com/sgtcoder/php-locker/",
     "license": "GPL-3.0",
     "authors": [
         {
             "name": "Michael J Brancato",
-            "email": "mike@mjbcode.com"
+            "email": "usmccoder@gmail.com"
         }
     ],
     "require": {
